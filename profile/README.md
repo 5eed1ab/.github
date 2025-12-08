@@ -1,1 +1,23 @@
-<img src="5eed1ab.svg" alt="5eed1ab" width="100%"/>
+```                                                                                          
+                                                                                                                                                                                                                                
+                   AAAAAAAAAAAAAAAA                                                                                 AAAAAAA                AAAA                                          AAAAAAA                                
+                   AAAAAAAAAAAAAAAA                                                                                 AAAAAAA          AAAAAAAAAA                                          AAAAAAA                                
+                   AAA                                                                                                  AAA         AAAAAAAAAAA                                              AAA                                
+                   AAA                                                                                                  AAA         AAAA    AAA                                              AAA                                
+                   AAA                                                                                                  AAA                 AAA                                              AAA                                
+                   AAA                            AAAAAAAAAAA                 AAAAAAAAAAAA                AAAAAAAAAAAA  AAA                 AAA                   AAAAAAAAAAAAAA             AAA   AAAAAAAAAAA                  
+                   AAAAAAAAAAAAAA              AAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAA           AAAAAAAAAAAAAAAAAAA                 AAA                  AAAAAAAAAAAAAAAAA           AAA AAAAAAAAAAAAAAA                
+                   AAAAAAAAAAAAAAAA          AAAAAAA       AAAAAA         AAAAAA        AAAAAA         AAAAAA      AAAAAAAA                 AAA                  AAAA         AAAA           AAAAAAAA      AAAAAA               
+                   AAAA        AAAAA         AAAA             AAAA       AAAAA            AAAAA       AAAA            AAAAA                 AAA                                AAAA          AAAAA            AAAA              
+                                 AAAA       AAAA               AAAA      AAA                AAA      AAAA              AAAA                 AAA                       AAAAAAAAAAAAA          AAAA              AAAA             
+                                  AAA       AAAAAAAAAAAAAAAAAAAAAAA     AAAAAAAAAAAAAAAAAAAAAAA      AAAA               AAA                 AAA                   AAAAAAAAAAAAAAAAA          AAAA               AAA             
+                                  AAA       AAAAAAAAAAAAAAAAAAAAAAA     AAAAAAAAAAAAAAAAAAAAAAA      AAA                AAA                 AAA                 AAAAAAAAAAAAAAAAAAA          AAA                AAA             
+                                  AAA       AAAA                         AAA                         AAAA              AAAA                 AAA                AAAAA           AAAA          AAAA              AAAA             
+                 AA              AAAA       AAAAA                        AAAAA                        AAAA            AAAAA                 AAA                AAA             AAAA          AAAAA            AAAAA             
+                 AAAAA         AAAAA         AAAAAA            AAAA       AAAAAA            AAAA      AAAAAA         AAAAAA                 AAA                AAAA         AAAAAAA          AAAAAAA         AAAAA              
+                 AAAAAAAAAAAAAAAAAA            AAAAAAAAAAAAAAAAAAAA        AAAAAAAAAAAAAAAAAAAAA        AAAAAAAAAAAAAAAAAAAAAAA     AAAAAAAAAAAAAAAAAAA        AAAAAAAAAAAAAAAAAAAAAAA   AAAAAAAAAAAAAAAAAAAAAAAA               
+                    AAAAAAAAAAAAA                AAAAAAAAAAAAAAAA             AAAAAAAAAAAAAAAA           AAAAAAAAAAAAA  AAAAAAA     AAAAAAAAAAAAAAAAAAA         AAAAAAAAAAAAAA AAAAAAA   AAAAAAA  AAAAAAAAAAAAA                 
+                         AAAA                        AAAAAA                       AAAAAA                      AAAA                                                  AAAAAA                            AAAAA                     
+                                                                                                                                                                                                                                
+                                                                                                                                                                                                                              
+```
