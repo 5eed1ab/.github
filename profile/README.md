@@ -1,6 +1,8 @@
 ![5eed1ab](https://5eed1ab.com/images/ibm029encoding.jpg)
+https://www.masswerk.at/keypunch
 ![5eed1ab](https://5eed1ab.com/images/card.png)
-- https://www.masswerk.at/keypunch/
+
+[5EED1AB PRACTICAL CA7 1000001](https://github.com/5eed1ab/practical)
 
 After some time to rest was able to realise **I never really knew how Computers work**. Teaching myself C with a target audiance of my past self and anyone else that prefers a practical path of how to manipulate bits and bytes.
 -  [How a Gutenberg Printing Press Works](https://www.youtube.com/watch?v=DLctAw4JZXE)
