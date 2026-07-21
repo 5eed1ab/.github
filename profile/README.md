@@ -1,4 +1,7 @@
 ![5eed1ab](https://5eed1ab.com/images/ibm029encoding.jpg)
+![5eed1ab](https://5eed1ab.com/images/card.png)
+- https://www.masswerk.at/keypunch/
+
 After some time to rest was able to realise **I never really knew how Computers work**. Teaching myself C with a target audiance of my past self and anyone else that prefers a practical path of how to manipulate bits and bytes.
 -  [How a Gutenberg Printing Press Works](https://www.youtube.com/watch?v=DLctAw4JZXE)
 -  [Bye Bye Babbage: the most awesome mechanical calculator good bye party](https://www.youtube.com/watch?v=GB1xQkgi3HE)
