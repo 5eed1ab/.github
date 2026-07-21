@@ -3,7 +3,7 @@ After some time to rest was able to realise **I never really knew how Computers 
 https://www.masswerk.at/keypunch
 ![5eed1ab](https://5eed1ab.com/images/card.png)
 
-[5EED1AB PRACTICAL CA7 1000001](https://github.com/5eed1ab/practical)
+## [5EED1AB PRACTICAL CA7 1000001](https://github.com/5eed1ab/practical)
 
 -  [How a Gutenberg Printing Press Works](https://www.youtube.com/watch?v=DLctAw4JZXE)
 -  [Bye Bye Babbage: the most awesome mechanical calculator good bye party](https://www.youtube.com/watch?v=GB1xQkgi3HE)
@@ -14,8 +14,10 @@ https://www.masswerk.at/keypunch
 -  [ASCII art demo with vintage HP 85 computer, HP 7970E 9-track tape and HP 2631G dot matrix printer](https://www.youtube.com/watch?v=YS9dGYUbNd0)
 -  [Hexadecimal mechanical calculator from the 1970s](https://www.youtube.com/watch?v=BunhaYGDl88)
 -  [A provocation to Think!](https://www.ibm.com/history/thomas-watson-sr)
+-  ["Here's to the crazy ones..." by Steve Jobs](https://www.youtube.com/watch?v=mtftHaK9tYY)
 
-Is it necessary build PCs, install Operating Systems, learn C these days?
-- [How Books Are Handmade At The Last Printing Press Of Its Kind In The US | Still Standing](https://www.youtube.com/watch?v=Q1xKcRrn_i4)
+"Here’s to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can’t do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do."
 
+## Is it necessary build PCs, install Operating Systems, learn C these days?
 
+[How Books Are Handmade At The Last Printing Press Of Its Kind In The US | Still Standing](https://www.youtube.com/watch?v=Q1xKcRrn_i4)
