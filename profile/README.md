@@ -10,4 +10,8 @@ After some time to rest was able to realise **I never really knew how Computers 
 -  [Hexadecimal mechanical calculator from the 1970s](https://www.youtube.com/watch?v=BunhaYGDl88)
 -  [Thomas J. Watson Sr.](https://www.ibm.com/history/thomas-watson-sr)
 
+Is it necessary build PCs, install Operating Systems, learn C these days?
+- I want to do my part in keeping the knowledge alive
+- [How Books Are Handmade At The Last Printing Press Of Its Kind In The US | Still Standing](https://www.youtube.com/watch?v=Q1xKcRrn_i4)
+
 
