@@ -1,5 +1,5 @@
 ![5eed1ab](https://5eed1ab.com/images/ibm029encoding.jpg)
-After some time to rest was able to realise **I never really knew how Computers work**. https://www.masswerk.at/keypunch
+After some time to rest was able to realise **I never really knew how Computers work**
 -  [How a Gutenberg Printing Press Works](https://www.youtube.com/watch?v=DLctAw4JZXE)
 -  [Bye Bye Babbage: the most awesome mechanical calculator good bye party](https://www.youtube.com/watch?v=GB1xQkgi3HE)
 -  [Automatic Punch Card Making For Jacquard Loom](https://www.youtube.com/watch?v=XmmDYcdmsxQ)
@@ -42,6 +42,7 @@ Practical Ca7                                                            1000001
 
 [How Books Are Handmade At The Last Printing Press Of Its Kind In The US | Still Standing](https://www.youtube.com/watch?v=Q1xKcRrn_i4)
 
+https://www.masswerk.at/keypunch
 ![5eed1ab](https://5eed1ab.com/images/card.png)
 
-## [5EED1AB PRACTICAL CA7 1000001](https://github.com/5eed1ab/practical)
+[5EED1AB PRACTICAL CA7 1000001](https://github.com/5eed1ab/practical)
