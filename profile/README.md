@@ -45,9 +45,34 @@ Practical Ca7                                                            1000001
     - it's a time machine for thinking
     - it's the modern version of the gutenberg press
 
-## Is it necessary build PCs, install Operating Systems, learn C these days?
+## Is it necessary to build a Computer, install an Operating Systems, and learn C these days?
 
 [How Books Are Handmade At The Last Printing Press Of Its Kind In The US | Still Standing](https://www.youtube.com/watch?v=Q1xKcRrn_i4)
+
+## Practical Ca7 is a hands-on journey 
+Learning C, taking advantage of Git, Gitea while also learing ZFS so we can migrate to faster systems. What programs can be written to learn enough math to understand [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) 
+### ThinkPad E16
+- It already has Windows 11 and Internet access. Going to install RHEL WSL with git, gcc, gdb, make, and podman.
+- Gutenberg is a FreeBSD Virtual Machine with zfs on 3 virtual disks, Gitea, Samba
+
+### ThinkCentre M52
+- Restricted System with no internet access
+- Pentium 4, my oldest x64 system
+- Can we migrate Gutenberg from the ThinkPad to physical HDDs?
+- 2.5Gb PCIe Nic
+if it can't keep up, upgrade to SSDs, can it now?
+ 
+## ThinkStation S30
+- Restricted System with no internet access
+- Xeon with ECC Ram, room for 3.5 HHDs, PCIe slot for 10 Gb Nic, NVMe card.
+Take it all apart and re-build it.
+Can we move Gutenberg from the ThinkCentre?
+
+## ThinkStation P310
+- Restricted System with no internet access
+- Smaller, faster Xeon with ECC Ram
+- Can we move Gutenberg from the S30?
+
 
 https://www.masswerk.at/keypunch
 ![5eed1ab](https://5eed1ab.com/images/card.png)
