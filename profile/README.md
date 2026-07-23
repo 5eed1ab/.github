@@ -6,6 +6,17 @@ After some time to rest was able to realise **I never really knew how Computers 
 -  [The punched card tabulator](https://www.ibm.com/history/punched-card-tabulator)
 -  [1964 IBM 029 Keypunch Card Punching Demonstration](https://www.youtube.com/watch?v=YnnGbcM-H8c)
 -  [card punch typography](https://www.masswerk.at/nowgobang/2020/card-punch-typography)
+-  [A provocation to Think!](https://www.ibm.com/history/thomas-watson-sr)
+![think](https://assets.ibm.com/is/image/ibm/5527_WatsonSr_Karsh?dpr=on%2C2&wid=1584&hei=2005)
+
+-  ["Here's to the crazy ones..." by Steve Jobs](https://www.youtube.com/watch?v=mtftHaK9tYY)
+
+"Here’s to the [crazy ones](https://www.thecrazyones.it). The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can’t do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do."
+
+|Ansel|Pablo|Jimi|Amelia|
+|--|--|--|--|
+|![Ansel](https://www.thecrazyones.it/poster/anseladams.jpg)|![Pablo](https://www.thecrazyones.it/poster/pablopicasso.jpg)|![jimi](https://www.thecrazyones.it/poster/jimihendrix.jpg)|![Amelia](https://www.thecrazyones.it/poster/ameliaearhart.jpg)
+
 -  [ASCII art demo with vintage HP 85 computer, HP 7970E 9-track tape and HP 2631G dot matrix printer](https://www.youtube.com/watch?v=YS9dGYUbNd0)
 ```
 Practical Ca7                                                            1000001
@@ -19,17 +30,6 @@ Practical Ca7                                                            1000001
 ```
 -  [Hexadecimal mechanical calculator from the 1970s](https://www.youtube.com/watch?v=BunhaYGDl88)
 `5E:ED:1A:BC:A7:0A`
--  [A provocation to Think!](https://www.ibm.com/history/thomas-watson-sr)
-![think](https://assets.ibm.com/is/image/ibm/5527_WatsonSr_Karsh?dpr=on%2C2&wid=1584&hei=2005)
-
--  ["Here's to the crazy ones..." by Steve Jobs](https://www.youtube.com/watch?v=mtftHaK9tYY)
-
-"Here’s to the [crazy ones](https://www.thecrazyones.it). The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can’t do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do."
-
-|Ansel|Pablo|Jimi|Amelia|
-|--|--|--|--|
-|![Ansel](https://www.thecrazyones.it/poster/anseladams.jpg)|![Pablo](https://www.thecrazyones.it/poster/pablopicasso.jpg)|![jimi](https://www.thecrazyones.it/poster/jimihendrix.jpg)|![Amelia](https://www.thecrazyones.it/poster/ameliaearhart.jpg)
-
 - [The Power to Change](https://www.youtube.com/watch?v=SyUmdrXvVVg)
 - I suggest in this age we should also teach
   - ascii along with the alphabet
