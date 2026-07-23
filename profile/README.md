@@ -2,6 +2,8 @@
 After some time to rest was able to realise **I never really knew how Computers work**
 -  [How a Gutenberg Printing Press Works](https://www.youtube.com/watch?v=DLctAw4JZXE)
 -  [Bye Bye Babbage: the most awesome mechanical calculator good bye party](https://www.youtube.com/watch?v=GB1xQkgi3HE)
+-  [Claude Shannon - The Bit Player Movie Trailer](https://www.youtube.com/watch?v=E3OldEtfBrE)
+-  [The Shannon Limit - Bell Labs - Future Impossible](https://www.youtube.com/watch?v=HSoog0OqgV0)
 -  [Automatic Punch Card Making For Jacquard Loom](https://www.youtube.com/watch?v=XmmDYcdmsxQ)
 -  [The punched card tabulator](https://www.ibm.com/history/punched-card-tabulator)
 -  [IBM: Once Upon A Punched Card 1964 Vintage computing](https://www.youtube.com/watch?v=BlUWg2nxCz0)
