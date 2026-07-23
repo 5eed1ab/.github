@@ -1,6 +1,5 @@
 ![5eed1ab](https://5eed1ab.com/images/ibm029encoding.jpg)
-After some time to rest was able to realise **I never really knew how Computers work**. Teaching myself C with a target audiance of my past self and anyone else that prefers a practical path of how to manipulate bits and bytes.
-https://www.masswerk.at/keypunch
+After some time to rest was able to realise **I never really knew how Computers work**. https://www.masswerk.at/keypunch
 ![5eed1ab](https://5eed1ab.com/images/card.png)
 
 ## [5EED1AB PRACTICAL CA7 1000001](https://github.com/5eed1ab/practical)
