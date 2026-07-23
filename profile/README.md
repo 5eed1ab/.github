@@ -14,13 +14,6 @@ After some time to rest was able to realise **I never really knew how Computers 
 |--------------|----------------|------------------|-------------------|
 | <img width="500" height="500" alt="s-l500" src="https://github.com/user-attachments/assets/c40a4b23-f09c-41c0-abad-2f2c99562ce9" /> | <img width="521.5" height="282" alt="s-l1600" src="https://github.com/user-attachments/assets/d617739f-de01-4003-add6-b9177695077e" /> | <img width="500" height="500" alt="s-l1600" src="https://github.com/user-attachments/assets/7d3bd2c2-e42d-489f-8971-a4e8ee2d7c0a" /> | <img width="500" height="485" alt="s-l500-1" src="https://github.com/user-attachments/assets/26678649-a66a-4ee9-aeec-2ee3d05e3eb8" /> |
 
-
-
-
-
-
--  ["Here's to the crazy ones..." by Steve Jobs](https://www.youtube.com/watch?v=mtftHaK9tYY)
-
 "Here’s to the [crazy ones](https://www.thecrazyones.it). The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can’t do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do."
 
 |Ansel|Pablo|Jimi|Amelia|
