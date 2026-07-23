@@ -49,7 +49,7 @@ Can we move Gutenberg from the ThinkCentre?
 
 "Here’s to the [crazy ones](https://www.thecrazyones.it). The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can’t do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do."
 
-- [Shaan Sahota Writer's Portrait | The Estate | National Theatre](https://www.youtube.com/watch?v=hGFabrQb6Bg)
+- [Shaan Sahota Writer's Portrait | The Estate | National Theatre](https://youtu.be/hGFabrQb6Bg?si=3Z04YCn9X2rnEmnW&t=532)
 
 |[Ansel](https://www.youtube.com/watch?v=IyT3YuY2V8c)|[Pablo](https://www.youtube.com/watch?v=Nxes8pyHkJc)|[Jimi](https://www.youtube.com/watch?v=bBTtPPnkkGk)|[Amelia](https://www.youtube.com/watch?v=adtxXNcvu8U)|
 |--|--|--|--|
