@@ -34,7 +34,7 @@ Practical Ca7                                                            1000001
 -  [Hexadecimal mechanical calculator from the 1970s](https://www.youtube.com/watch?v=BunhaYGDl88)
 `5E:ED:1A:BC:A7:0A`
 - [The Power to Change](https://www.youtube.com/watch?v=SyUmdrXvVVg)
-- I suggest in this age we should also teach
+- should we also teach?
   - ascii along with the alphabet
   - base 2 counting along with base 10
   - Git for everyone. It isn't just source control.
