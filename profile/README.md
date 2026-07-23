@@ -23,7 +23,7 @@ Practical Ca7                                                            1000001
 ▒░░▒▒▒░░░░      ▒▓▒▒▓▓▓▓▓▒▒▒░░▒░░░░░░░░░░▒▒▒▓▓▒▒▒▒▓▓▒▓▒▓▓▓▓▓░░     ░░░░░▒░▒▓▓▓▓▒
 ```
 -  [Hexadecimal mechanical calculator from the 1970s](https://www.youtube.com/watch?v=BunhaYGDl88)
-`5E:ED:1A:B0:00:0A`
+`5E:ED:1A:BC:A7:0A`
 -  [A provocation to Think!](https://www.ibm.com/history/thomas-watson-sr)
 ![think](https://assets.ibm.com/is/image/ibm/5527_WatsonSr_Karsh?dpr=on%2C2&wid=1584&hei=2005)
 
