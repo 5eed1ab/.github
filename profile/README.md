@@ -36,6 +36,12 @@ Practical Ca7                                                            1000001
 |![Ansel](https://www.thecrazyones.it/poster/anseladams.jpg)|![Pablo](https://www.thecrazyones.it/poster/pablopicasso.jpg)|![jimi](https://www.thecrazyones.it/poster/jimihendrix.jpg)|![Amelia](https://www.thecrazyones.it/poster/ameliaearhart.jpg)
 
 - [The Power to Change](https://www.youtube.com/watch?v=SyUmdrXvVVg)
+- I suggest in this age we should also teach
+  - ascii along with the alphabet
+  - base 2 counting along with base 10
+  - Git for everyone. It isn't just source control.
+    - it's a time machine for thinking
+    - it's the modern version of the gutenberg press
 
 ## Is it necessary build PCs, install Operating Systems, learn C these days?
 
