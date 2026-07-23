@@ -4,8 +4,6 @@
 |--|--|
 |<img width="500" height="608" alt="1598051634015" src="https://github.com/user-attachments/assets/6a659d49-b9ee-4457-b7a8-facdd457a7e2" />|<img width="960" height="500" alt="1599233299799" src="https://github.com/user-attachments/assets/9b973b49-b4e2-466d-bd9b-9ab5fd66b2ec" />|
 
-
-
 After some time to rest was able to realise **I never really knew how Computers work**
 -  [How a Gutenberg Printing Press Works](https://www.youtube.com/watch?v=DLctAw4JZXE)
 -  [Bye Bye Babbage: the most awesome mechanical calculator good bye party](https://www.youtube.com/watch?v=GB1xQkgi3HE)
@@ -47,10 +45,11 @@ Can we move Gutenberg from the ThinkCentre?
 - Smaller, faster Xeon with ECC Ram
 - Can we move Gutenberg from the S30?
 
-
 ## continually finding ways to bridge creative ideas with engineering rigor
 
 "Here’s to the [crazy ones](https://www.thecrazyones.it). The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can’t do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do."
+
+- [Shaan Sahota Writer's Portrait | The Estate | National Theatre](https://www.youtube.com/watch?v=hGFabrQb6Bg)
 
 |[Ansel](https://www.youtube.com/watch?v=IyT3YuY2V8c)|[Pablo](https://www.youtube.com/watch?v=Nxes8pyHkJc)|[Jimi](https://www.youtube.com/watch?v=bBTtPPnkkGk)|[Amelia](https://www.youtube.com/watch?v=adtxXNcvu8U)|
 |--|--|--|--|
