@@ -24,6 +24,8 @@ https://www.masswerk.at/keypunch
 |--|--|--|--|
 |![Ansel](https://www.thecrazyones.it/poster/anseladams.jpg)|![Pablo](https://www.thecrazyones.it/poster/pablopicasso.jpg)|![jimi](https://www.thecrazyones.it/poster/jimihendrix.jpg)|![Amelia](https://www.thecrazyones.it/poster/ameliaearhart.jpg)
 
+- [The Power to Change](https://www.youtube.com/watch?v=SyUmdrXvVVg)
+
 ## Is it necessary build PCs, install Operating Systems, learn C these days?
 
 [How Books Are Handmade At The Last Printing Press Of Its Kind In The US | Still Standing](https://www.youtube.com/watch?v=Q1xKcRrn_i4)
