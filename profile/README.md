@@ -80,8 +80,10 @@ Practical Ca7                                                            1000001
 
 [How Books Are Handmade At The Last Printing Press Of Its Kind In The US | Still Standing](https://www.youtube.com/watch?v=Q1xKcRrn_i4)
 
+I **think** everyone can write programs
+
 ## Practical Ca7 is a hands-on journey 
-Learning C, taking advantage of Git, Gitea while also learing ZFS so we can migrate to faster systems. What programs can be written to learn enough math to understand [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) 
+Learning C, taking advantage of Git, Gitea while also learing ZFS so we can migrate to faster systems. What programs can be written to learn enough math to understand [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)? 
 
 https://www.masswerk.at/keypunch
 ![5eed1ab](https://5eed1ab.com/images/card.png)
