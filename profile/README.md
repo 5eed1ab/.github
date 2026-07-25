@@ -1,22 +1,28 @@
-![5eed1ab](https://5eed1ab.com/images/ibm029encoding.jpg)
+![5eed1ab header](https://5eed1ab.com/images/ibm029encoding.jpg)
 
 |Release Engineering|Learning more then working|
 |--|--|
 |<img width="500" height="608" alt="1598051634015" src="https://github.com/user-attachments/assets/6a659d49-b9ee-4457-b7a8-facdd457a7e2" />|<img width="960" height="500" alt="1599233299799" src="https://github.com/user-attachments/assets/9b973b49-b4e2-466d-bd9b-9ab5fd66b2ec" />|
 
 After some time to rest was able to realise **I never really knew how Computers work**
--  [How a Gutenberg Printing Press Works](https://www.youtube.com/watch?v=DLctAw4JZXE)
--  [Bye Bye Babbage: the most awesome mechanical calculator good bye party](https://www.youtube.com/watch?v=GB1xQkgi3HE)
--  [The First Computer Program](https://www.youtube.com/watch?v=_JVwyW4zxQ4)
--  [Automatic Punch Card Making For Jacquard Loom](https://www.youtube.com/watch?v=XmmDYcdmsxQ)
--  [The Fascinating Story of Bell Labs, the American Laboratory That Invented the Modern World](https://www.youtube.com/watch?v=mskbVYpj208)
--  [Claude Shannon - The Bit Player Movie Trailer](https://www.youtube.com/watch?v=E3OldEtfBrE)
--  [The Shannon Limit - Bell Labs - Future Impossible](https://www.youtube.com/watch?v=HSoog0OqgV0)
--  [A Theory, A Paper, A Turning Point: Claude Shannon's 1948 'Mathematical Theory of Communication](https://www.youtube.com/watch?v=uH401UXIX4o)
+- Youtube playlist: [5eed1ab](https://www.youtube.com/playlist?list=PLJ5vbPlXmUPY)
+
+## During a project installing OpenShift on a z15 I ran into an issue. 
+The answer: [Example of using FTP to get the Linux boot files](https://www.ibm.com/docs/en/zvm/7.2.0?topic=linux-installing-in-virtual-machine#d23085e489)
+
+Note the command locsite fix 80, which sets the VM file format to **fixed length 80**, the file format necessary for punching the binary files to the **virtual machine reader**.
+
+I found my answer then, edited the `.prm` to be under 80 characters, moved on.
+
+### Why the limit?
+Later took some time to feed my curiousity which is in part of the spark for `5eed1ab`
 -  [The punched card tabulator](https://www.ibm.com/history/punched-card-tabulator)
--  [IBM: Once Upon A Punched Card 1964 Vintage computing](https://www.youtube.com/watch?v=BlUWg2nxCz0)
+-  [The IBM punched card](https://www.ibm.com/history/punched-card)
+### Discovering a source of creating the `5eed1ab` header
 -  [card punch typography](https://www.masswerk.at/nowgobang/2020/card-punch-typography)
--  [A provocation to Think!](https://www.ibm.com/history/thomas-watson-sr)
+
+
+## [A provocation to Think!](https://www.ibm.com/history/thomas-watson-sr)
 
 ![think](https://assets.ibm.com/is/image/ibm/5527_WatsonSr_Karsh?dpr=on%2C2&wid=1584&hei=2005)
 
