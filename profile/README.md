@@ -63,7 +63,16 @@ Can we move Gutenberg from the ThinkCentre?
 |![Ansel](https://www.thecrazyones.it/poster/anseladams.jpg)|![Pablo](https://www.thecrazyones.it/poster/pablopicasso.jpg)|![jimi](https://www.thecrazyones.it/poster/jimihendrix.jpg)|![Amelia](https://www.thecrazyones.it/poster/ameliaearhart.jpg)
 
 -  [ASCII art demo with vintage HP 85 computer, HP 7970E 9-track tape and HP 2631G dot matrix printer](https://www.youtube.com/watch?v=YS9dGYUbNd0)
+
+Introducing AsciiCa7, my alter ego, a persona to shift mindsets as I work on Practical Ca7 
 ```
+/* AsciiCa7
+    /\_/\
+   ( @ @ )     
+   ==}Y{==
+    [ ^ ]
+*/
+
 Practical Ca7                                                            1000001
 ▒▒░░░░░   ░▒▓█████▒░░░  ░░  ░░▓▒▒ ░▒▒░ ░░▓▓░░▓▒░░░░ ▒░ ░  ▒████████▓▒░ ░░░░░░░▒▒
 ▒▒▒░░░░░░▒███▓▓▒▒▒▓███▒░    ░▒▒░▒░░▓ ░░░▒▒▒▓▓▓▓▒░ ░░░░▒████▒▓░▓▓▓▓██▓░░░▓▒░░░░▒▒
