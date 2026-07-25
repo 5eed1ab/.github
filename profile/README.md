@@ -1,6 +1,6 @@
 ![5eed1ab header](https://5eed1ab.com/images/ibm029encoding.jpg)
 
-|Release Engineering|Learning more then working|
+|Release Engineering|best spot for learning|
 |--|--|
 |<img width="500" height="608" alt="1598051634015" src="https://github.com/user-attachments/assets/6a659d49-b9ee-4457-b7a8-facdd457a7e2" />|<img width="960" height="500" alt="1599233299799" src="https://github.com/user-attachments/assets/9b973b49-b4e2-466d-bd9b-9ab5fd66b2ec" />|
 
